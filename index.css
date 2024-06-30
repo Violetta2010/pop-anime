@@ -21,6 +21,8 @@ header{
     
 }
 
+
+
 .navbar-cs {
     padding: 16px 96px;
     background: transparent;
@@ -93,6 +95,63 @@ header{
     border-radius: 50%;
 }
 
+.user-setting{
+    height: 400px;
+    width: 360px;
+    position: absolute;
+    right: 0;
+    background-color: #353434;
+    border-radius: 4px;
+}
+
+.user-setting-item{
+    padding: 8px 16px;
+}
+
+.sign-up{
+    display: flex;
+    background-image: url(https://cdn.popsww.com/popsapp/assets/images/account/menu-item-bg.png);
+    border-radius: 8px;
+}
+
+.img-gift{
+    width: 76px;
+    height: 55px;  
+    margin-top: 12px;
+}
+
+.text-gift{
+    color: #fff;
+}
+
+.text-top{
+    font-size: 12px;
+    margin-top: 8px;
+}
+
+.text-bottom{
+    font-size: 10px;
+}
+
+.img-arrow{
+    height: 32px;
+    width: 32px;
+    margin-top: 25px;
+}
+
+.list-item{
+    color: #fff;
+    padding: 0px 16px;
+}
+
+.data-free{
+    display: flex;
+    align-items: center;
+}
+
+.text-data{
+    margin: 10px 0px 0px 10px;
+}
 
 /* banner */
 
@@ -210,3 +269,4 @@ header{
     color: #f1f1f1;
     margin: -25px 0px 0px 467px;
 }
+
